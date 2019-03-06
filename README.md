@@ -1,2 +1,3 @@
-# CNN_invariance_transformation
-CNN developed using PyTorch and the MNIST data set
+# CNN features extraction display
+
+In this proyect, a traditional LeNet-5 was used to train a network using the parallel GPU process included in Torch.
